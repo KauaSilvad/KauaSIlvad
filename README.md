@@ -1,13 +1,49 @@
-👋 Oi, eu sou Kauã Silva!
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-🌟 Apaixonado por programação desde cedo, estou sempre buscando aprender coisas novas e me aventurar pelo mundo do desenvolvimento web. Atualmente no segundo ano do ensino médio, dedico meu tempo livre a explorar diferentes linguagens de programação, frameworks e tecnologias web.
+###
 
-💻 Minha jornada no mundo da programação começou com a curiosidade de entender como funcionam os sites que visito diariamente. Desde então, venho mergulhando em projetos pessoais e desafios que me permitem aprimorar minhas habilidades e expandir meu conhecimento.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-🚀 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Sou fascinado pela capacidade de criar algo do zero e ver como minhas ideias ganham vida na forma de aplicativos web interativos e funcionais.
+###
 
-📚 Além de programar, também me interesso por design web e UX/UI. Acredito que a combinação entre uma ótima experiência de usuário e um código limpo e eficiente é essencial para o sucesso de qualquer projeto web.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-🌐 Estou animado para me conectar com outros desenvolvedores, colaborar em projetos interessantes e continuar minha jornada de aprendizado no vasto universo da programação web.
+###
 
-Vamos codificar juntos? ✨
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KauaSilvad/KauaSilvad/output/snake.svg" alt="Snake animation" />
+
+###
