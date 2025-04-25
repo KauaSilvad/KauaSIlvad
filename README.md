@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">Linguagens em aprendizado</h3>
+<h3 align="left">Tecnologias em aprendizado</h3>
 
 ###
 
